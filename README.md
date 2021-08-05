@@ -1,7 +1,7 @@
 # clova-ocr-for-image
-네이버 클로바 OCR API(General-premium)을 이용한 이미지 OCR 처리
-[참고 문서](https://guide.ncloud-docs.com/docs/ocr-ocr-1-1)
-folked from [dev-sngwn](https://dev-sngwn.github.io/)
+네이버 클로바 OCR API(General-premium)을 이용한 이미지 OCR 처리  
+[참고 문서](https://guide.ncloud-docs.com/docs/ocr-ocr-1-1)  
+folked from [dev-sngwn](https://dev-sngwn.github.io/)  
 
 # 사용법
 1. [네이버 CLOVA OCR 페이지](https://www.ncloud.com/product/aiService/ocr)에서 General-Premium을 사용신청 (100건 무료, 건당 3원)
